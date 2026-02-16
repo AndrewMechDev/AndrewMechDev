@@ -110,5 +110,9 @@
 
 
 <div align="center">
+  <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/AndrewMechDev/AndrewMechDev/output/snake.svg">
+</div>
+
+<div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0:58A6FF,100:38B2AC" alt="Footer" />
 </div>
