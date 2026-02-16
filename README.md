@@ -20,13 +20,19 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrewmechdev@gmail.com)
 [![Portfolio Visit Badge](https://visitcount.itsvg.in/api?id=AndrewMechDev&icon=9&color=7)](https://visitcount.itsvg.in)
 
-I apply the analytical and problem-solving mindset of physical systems engineering to architect scalable, maintainable, and high-quality software solutions. I care deeply about clean code, structural integrity, and continuous learning.
+<div>
+  <img align="right" width="350" src="./assets/CC0 Studios.gif" alt="Working Computer Science GIF" />
 
-* 🏢 Currently working as a Software Engineering Intern at **Oracle Perú SAC** and **Tecsup**.
-* 💻 Focused heavily on **Backend Development** (Java, Spring, Python, Django) and **Android Development**.
-* 🐳 Actively exploring containerization with **Docker**, orchestration with **Kubernetes**, and scalable cloud architectures.
-* 🤝 Always open to collaborating on quality-driven projects where strong engineering principles truly matter.
+  <p>I apply the analytical and problem-solving mindset of physical systems engineering to architect scalable, maintainable, and high-quality software solutions. I care deeply about clean code, structural integrity, and continuous learning.</p>
 
+  <ul>
+    <li>🏢 Currently a Software Engineering Intern at <b>Tecsup</b> (until March). Previously completed an internship at <b>Oracle Perú SAC</b>.</li>
+    <li>💻 Focused on <b>Backend Development</b> (Java, Spring, Python, Django).</li>
+    <li>🐳 Actively exploring containerization with <b>Docker</b>, orchestration with <b>Kubernetes</b>, and scalable cloud architectures.</li>
+    <li>🤝 Always open to collaborating on quality-driven projects where strong engineering principles truly matter.</li>
+  </ul>
+</div>
+<br clear="both">
 
 
 ### 💻 Tech Stack & Tools
