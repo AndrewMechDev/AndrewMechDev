@@ -43,57 +43,41 @@
 <br clear="both">
 
 
-### 💻 Tech Stack & Tools
+<h3 align="center">💻 Tech Stack & Tools</h3>
 
-**Backend & Core**
-<p>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=plastic&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white" alt="Laravel" />
-</p>
-
-**Mobile & Frontend**
-<p>
-  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=plastic&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white" alt="Next JS" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-</p>
-
-**Database, Cloud & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white" alt="Postgres" />
-  <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white" alt="SQLite" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase" alt="Firebase" />
-</p>
-
-**Tools & Workflow**
-<p>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white" alt="Bash Script" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Insomnia-black?style=plastic&logo=insomnia&logoColor=5849BE" alt="Insomnia" />
-  <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white" alt="Trello" />
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white" alt="Notion" />
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <b>💻 Programming Languages</b><br><br>
+        <img src="https://skillicons.dev/icons?i=java,python,go,php,kotlin,js,bash,html,css&perline=5" alt="Languages" />
+      </td>
+      <td align="center" width="50%">
+        <b>🚀 Frameworks & Libraries</b><br><br>
+        <img src="https://skillicons.dev/icons?i=spring,django,fastapi,laravel,react,nextjs,tailwind,flutter&perline=4" alt="Frameworks" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <b>🗄️ Databases</b><br><br>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,sqlite&perline=5" alt="Databases" />
+      </td>
+      <td align="center" width="50%">
+        <b>☁️ Cloud & DevOps</b><br><br>
+        <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,firebase,githubactions&perline=4" alt="Cloud and DevOps" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <b>🛠️ Tools & Workflow</b><br><br>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,notion&perline=8" alt="Tools" />
+        <br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="48" alt="Insomnia" style="margin-top: 5px;"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="48" alt="Trello" style="margin-top: 5px;"/>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
