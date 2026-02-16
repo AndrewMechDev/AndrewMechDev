@@ -18,19 +18,13 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # PASO 1: Generar el SVG de Pacman
+      # PASO 1: Generar el SVG de Pacman (Esto ya crea la carpeta dist automáticamente)
       - name: Generate pacman-contribution-graph.svg
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
 
-      # PASO 2: Preparar el directorio dist (¡Evita el error anterior!)
-      - name: Prepare dist directory
-        run: |
-          mkdir -p dist
-          mv pacman-contribution-graph.svg dist/
-
-      # PASO 3: Subir a la rama output
+      # PASO 2: Subir la carpeta dist a la rama output
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
