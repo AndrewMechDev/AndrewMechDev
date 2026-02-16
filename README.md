@@ -1,3 +1,7 @@
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0:58A6FF,100:38B2AC" alt="Header" />
+</div>
+
 <h1 align="center">
   <img src="./assets/wired-lineal-1331-repository-in-reveal.gif" width="45" align="absmiddle" alt="Animated Icon"> 
   Hi there, I'm Andrew Alca 
@@ -96,4 +100,9 @@ I apply the analytical and problem-solving mindset of physical systems engineeri
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AndrewMechDev&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0:58A6FF,100:38B2AC" alt="Footer" />
 </div>
