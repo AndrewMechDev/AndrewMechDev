@@ -15,7 +15,11 @@
 </div>
 
 <div align="center">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/AndrewMechDev/AndrewMechDev/output/pacman-contribution-graph.svg">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AndrewMechDev/AndrewMechDev/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AndrewMechDev/AndrewMechDev/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/AndrewMechDev/AndrewMechDev/output/pacman-contribution-graph-dark.svg">
+  </picture>
 </div>
 
 **Software Engineer | Mechanical Engineering Background**
