@@ -82,21 +82,24 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center" width="50%">
+      <td align="center" rowspan="3" width="25%">
+        <img src="./assets/github.gif" width="180" alt="GitHub Animation">
+      </td>
+      <td align="center" width="37%">
         <b><img src="./assets/angulares.gif" width="25" align="absmiddle" alt="Angles GIF"> Programming Languages <img src="./assets/angulares.gif" width="25" align="absmiddle" alt="Angles GIF"></b><br><br> 
         <img src="https://skillicons.dev/icons?i=java,python,go,php,kotlin,js,bash,html,css&perline=5" alt="Languages" />
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="37%">
         <b><img src="./assets/api2.gif" width="25" align="absmiddle" alt="Frameworks GIF"> Frameworks & Libraries <img src="./assets/React.gif" width="25" align="absmiddle" alt="Frameworks GIF"></b><br><br>
         <img src="https://skillicons.dev/icons?i=spring,django,fastapi,laravel,react,nextjs,tailwind,flutter&perline=4" alt="Frameworks" />
       </td>
     </tr>
     <tr>
-      <td align="center" width="50%">
+      <td align="center" width="37%">
         <b><img src="./assets/data2.gif" width="25" align="absmiddle" alt="Database GIF"> Databases <img src="./assets/db.gif" width="25" align="absmiddle" alt="Database GIF"></b><br><br>
         <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,sqlite&perline=5" alt="Databases" />
       </td>
-      <td align="center" width="50%">
+      <td align="center" width="37%">
         <b><img src="./assets/cloud2.gif" width="25" align="absmiddle" alt="Cloud GIF"> Cloud & DevOps <img src="./assets/cloud4.gif" width="25" align="absmiddle" alt="Cloud GIF"></b><br><br>
         <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,firebase,githubactions&perline=4" alt="Cloud and DevOps" />
       </td>
