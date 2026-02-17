@@ -76,7 +76,7 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0363.gif" width="100%" alt="Audio Wave Divider" />
+  <img src="./assets/fuego-invertido.gif" width="100%" alt="Audio Wave Divider" />
 </div>
 <h3 align="center">
   <img src="./assets/computer.gif" width="40" align="absmiddle" alt="Computer GIF"> 
@@ -124,7 +124,7 @@
 
 
 <div align="center">
-  <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0363.gif" width="100%" alt="Audio Wave Divider" />
+  <img src="assets/fuego-original.gif" width="100%" alt="Audio Wave Divider" />
 </div>
 
 
