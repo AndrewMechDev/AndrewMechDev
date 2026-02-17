@@ -115,24 +115,36 @@
 
 ---
 
-### 📊 GitHub Analytics
+<h3 align="center">
+  <img src="./assets/stats.gif" width="30" align="absmiddle" alt="Stats GIF"> 
+  GitHub Analytics 
+  <img src="./assets/github2.gif" width="30" align="absmiddle" alt="GitHub GIF">
+</h3>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AndrewMechDev&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewMechDev&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+  <table>
+    <tr>
+      <td align="center" width="55%">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AndrewMechDev&show_icons=true&hide_border=true&title_color=58A6FF&icon_color=38B2AC&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td align="center" width="60%">
+        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AndrewMechDev&layout=compact&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+
+  <br>
+
+  <img src="https://streak-stats.demolab.com?user=AndrewMechDev&theme=dark&background=0d1117&hide_border=true&ring=38B2AC&fire=58A6FF" alt="GitHub Streak" />
+
+  <br><br>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrewMechDev&bg_color=0d1117&color=c9d1d9&line=38B2AC&point=58A6FF&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br>
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AndrewMechDev&theme=github_dark&hide_border=false" alt="GitHub Streak" />
-</div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AndrewMechDev&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 
 <div align="center">
