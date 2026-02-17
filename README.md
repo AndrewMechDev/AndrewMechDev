@@ -2,11 +2,14 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=0:58A6FF,100:38B2AC" alt="Header" />
 </div>
 
+
 <h1 align="center">
   <img src="./assets/logo-github.gif" width="45" align="absmiddle" alt="Animated Icon"> 
   Hi there, I'm Andrew Alca 
   <img src="./assets/logo-github.gif" width="45" align="absmiddle" alt="Animated Icon">
 </h1>
+
+
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -72,7 +75,9 @@
 </div>
 <br clear="both">
 
-
+<div align="center">
+  <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0363.gif" width="100%" alt="Audio Wave Divider" />
+</div>
 <h3 align="center">
   <img src="./assets/computer.gif" width="40" align="absmiddle" alt="Computer GIF"> 
   Tech Stack & Tools
@@ -83,7 +88,8 @@
   <table>
     <tr>
       <td align="center" rowspan="3" width="25%">
-        <img src="./assets/github.gif" width="180" alt="GitHub Animation">
+        <img src="./assets/3dgithub.gif" width="180" alt="3D GitHub GIF">
+        <br><br><br><img src="./assets/github.gif" width="180" alt="Daft Punk GitHub GIF">
       </td>
       <td align="center" width="37%">
         <b><img src="./assets/angulares.gif" width="25" align="absmiddle" alt="Angles GIF"> Programming Languages <img src="./assets/angulares.gif" width="25" align="absmiddle" alt="Angles GIF"></b><br><br> 
@@ -116,7 +122,11 @@
   </table>
 </div>
 
----
+
+<div align="center">
+  <img src="https://www.gifsanimados.org/data/media/562/linea-imagen-animada-0363.gif" width="100%" alt="Audio Wave Divider" />
+</div>
+
 
 <h3 align="center">
   <img src="./assets/stats.gif" width="30" align="absmiddle" alt="Stats GIF"> 
