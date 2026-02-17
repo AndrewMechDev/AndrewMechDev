@@ -22,11 +22,41 @@
   </picture>
 </div>
 
-**Software Engineer | Mechanical Engineering Background**
+<br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrew-alca/) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andrewmechdev@gmail.com)
-[![Portfolio Visit Badge](https://visitcount.itsvg.in/api?id=AndrewMechDev&icon=9&color=7)](https://visitcount.itsvg.in)
+<div align="center">
+  <h3>
+    <img src="./assets/devit.gif" width="30" align="absmiddle" alt="Dev GIF"> 
+    Software Developer | Mechanical Engineering Background
+  </h3>
+  
+  <p>
+    <a href="https://www.linkedin.com/in/andrew-alca/" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="40" alt="LinkedIn" />
+    </a>
+    <a href="mailto:andrewmechdev@gmail.com" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="40" alt="Email" />
+    </a>
+    <a href="#" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="40" alt="Discord" />
+    </a>
+    <a href="#" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="40" alt="YouTube" />
+    </a>
+    <a href="#" target="_blank">
+      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="40" alt="Twitter" />
+    </a>
+  </p>
+  
+  <!-- Portafolio -->
+  <!-- 
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=AndrewMechDev&icon=9&color=7" alt="Portfolio Visit Badge" />
+  </a>
+  -->
+</div>
+
+<br>
 
 <div>
   <img align="right" width="350" src="./assets/CC0 Studios.gif" alt="Working Computer Science GIF" />
