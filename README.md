@@ -3,9 +3,9 @@
 </div>
 
 <h1 align="center">
-  <img src="./assets/wired-lineal-1331-repository-in-reveal.gif" width="45" align="absmiddle" alt="Animated Icon"> 
+  <img src="./assets/logo-github.gif" width="45" align="absmiddle" alt="Animated Icon"> 
   Hi there, I'm Andrew Alca 
-  <img src="./assets/wired-lineal-1331-repository-in-reveal.gif" width="45" align="absmiddle" alt="Animated Icon">
+  <img src="./assets/logo-github.gif" width="45" align="absmiddle" alt="Animated Icon">
 </h1>
 
 <div align="center">
@@ -43,33 +43,37 @@
 <br clear="both">
 
 
-<h3 align="center">💻 Tech Stack & Tools</h3>
+<h3 align="center">
+  <img src="./assets/computer.gif" width="40" align="absmiddle" alt="Computer GIF"> 
+  Tech Stack & Tools
+  <img src="./assets/cloud3.gif" width="40" align="absmiddle" alt="Computer GIF">
+</h3>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="50%">
-        <b>💻 Programming Languages</b><br><br>
+        <b><img src="./assets/angulares.gif" width="25" align="absmiddle" alt="Angles GIF"> Programming Languages <img src="./assets/angulares.gif" width="25" align="absmiddle" alt="Angles GIF"></b><br><br> 
         <img src="https://skillicons.dev/icons?i=java,python,go,php,kotlin,js,bash,html,css&perline=5" alt="Languages" />
       </td>
       <td align="center" width="50%">
-        <b>🚀 Frameworks & Libraries</b><br><br>
+        <b><img src="./assets/api2.gif" width="25" align="absmiddle" alt="Frameworks GIF"> Frameworks & Libraries <img src="./assets/React.gif" width="25" align="absmiddle" alt="Frameworks GIF"></b><br><br>
         <img src="https://skillicons.dev/icons?i=spring,django,fastapi,laravel,react,nextjs,tailwind,flutter&perline=4" alt="Frameworks" />
       </td>
     </tr>
     <tr>
       <td align="center" width="50%">
-        <b>🗄️ Databases</b><br><br>
+        <b><img src="./assets/data2.gif" width="25" align="absmiddle" alt="Database GIF"> Databases <img src="./assets/db.gif" width="25" align="absmiddle" alt="Database GIF"></b><br><br>
         <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,sqlite&perline=5" alt="Databases" />
       </td>
       <td align="center" width="50%">
-        <b>☁️ Cloud & DevOps</b><br><br>
+        <b><img src="./assets/cloud2.gif" width="25" align="absmiddle" alt="Cloud GIF"> Cloud & DevOps <img src="./assets/cloud4.gif" width="25" align="absmiddle" alt="Cloud GIF"></b><br><br>
         <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,firebase,githubactions&perline=4" alt="Cloud and DevOps" />
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
-        <b>🛠️ Tools & Workflow</b><br><br>
+        <b><img src="./assets/tools.gif" width="25" align="absmiddle" alt="Tools GIF"> Tools & Workflow <img src="./assets/gitflow2.gif" width="25" align="absmiddle" alt="Tools GIF"></b><br><br>
         <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,notion&perline=8" alt="Tools" />
         <br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/insomnia/insomnia-original.svg" height="48" alt="Insomnia" style="margin-top: 5px;"/>
