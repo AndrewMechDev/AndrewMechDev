@@ -122,6 +122,13 @@
 </h3>
 
 <div align="center">
+
+  <img src="./assets/left-wing.webp" width="160" align="absmiddle" alt="Left Wing">
+  <img src="https://streak-stats.demolab.com?user=AndrewMechDev&theme=dark&background=0d1117&hide_border=true&ring=38B2AC&fire=58A6FF" align="absmiddle" alt="GitHub Streak" />
+  <img src="./assets/right-wing.webp" width="160" align="absmiddle" alt="Right Wing">
+
+  <br>
+
   <table>
     <tr>
       <td align="center" width="55%">
@@ -133,11 +140,7 @@
     </tr>
   </table>
 
-  <br>
-
-  <img src="https://streak-stats.demolab.com?user=AndrewMechDev&theme=dark&background=0d1117&hide_border=true&ring=38B2AC&fire=58A6FF" alt="GitHub Streak" />
-
-  <br><br>
+   <br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrewMechDev&bg_color=0d1117&color=c9d1d9&line=38B2AC&point=58A6FF&hide_border=true" alt="Activity Graph" />
 </div>
