@@ -18,23 +18,20 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      # 🔹 PASO 1: Genera el archivo SVG
       - name: Generate snake.svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            # 🔹 COLOR ACTUALIZADO: color_snake ahora es Magenta Neón (FF00FF) para máxima visibilidad
-            dist/snake.svg?color_snake=FF00FF&color_dots=#161b22,#01311f,#03452c,#0f6d46,#199865
+            dist/snake.svg?color_snake=#FF00FF&color_dots=#161b22,#1A237E,#4A148C,#00E5FF,#FF00FF
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      # 🔹 PASO 2: Sube el archivo generado a la rama "output"
       - name: Push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          keep_history: true # <--- ESTO EVITA QUE SE BORREN ENTRE SÍ
+          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
