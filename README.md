@@ -27,6 +27,11 @@
 
 <br>
 
+
+
+          
+
+
 <div align="center">
   <h3>
     <img src="./assets/devit.gif" width="30" align="absmiddle" alt="Dev GIF"> 
@@ -35,19 +40,23 @@
   
   <p>
     <a href="https://www.linkedin.com/in/andrew-alca/" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" height="40" alt="LinkedIn" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" height="40" alt="LinkedIn" />
     </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="mailto:andrewmechdev@gmail.com" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="45" height="40" alt="Email" />
+      <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="45" height="40" alt="Email" />
     </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="#" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" height="40" alt="Discord" />
+      <img src="https://cdn.simpleicons.org/discord/5865F2" width="45" height="40" alt="Discord" />
     </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="#" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="40" alt="YouTube" />
+      <img src="https://cdn.simpleicons.org/youtube/FF0000" width="45" height="40" alt="YouTube" />
     </a>
+    &nbsp;&nbsp;&nbsp;
     <a href="#" target="_blank">
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="40" alt="Twitter" />
+      <img src="https://cdn.simpleicons.org/x/white" width="45" height="40" alt="X (Twitter)" />
     </a>
   </p>
   
@@ -67,7 +76,7 @@
   <p>I apply the analytical and problem-solving mindset of physical systems engineering to architect scalable, maintainable, and high-quality software solutions. I care deeply about clean code, structural integrity, and continuous learning.</p>
 
   <ul>
-    <li>🏢 Currently a Software Engineering Intern at <b>Tecsup</b> (until March). Previously completed an internship at <b>Oracle Perú SAC</b>.</li>
+    <li>🏢 Currently a Software Developer Intern at <b>Tecsup</b> (until March). Previously completed an internship at <b>Oracle Perú SAC</b>.</li>
     <li>💻 Focused on <b>Backend Development</b> (Java, Spring, Python, Django).</li>
     <li>🐳 Actively exploring containerization with <b>Docker</b>, orchestration with <b>Kubernetes</b>, and scalable cloud architectures.</li>
     <li>🤝 Always open to collaborating on quality-driven projects where strong engineering principles truly matter.</li>
