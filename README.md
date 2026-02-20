@@ -29,39 +29,41 @@
     Let's Connect
   </h3>
   
-  <table>
+  <table width="100%">
     <tr>
-      <th width="45%"><div align="center">💼 Professional Links</div></th>
-      <th width="10%"></th>
-      <th width="45%"><div align="center">👾 Community & Social</div></th>
+      <th width="50%"><div align="center">💼 Professional Links</div></th>
+      <th width="50%"><div align="center">👾 Community & Social</div></th>
     </tr>
     <tr>
       <td align="center">
-        <a href="#" target="_blank">
-          <img src="./assets/carrera-profesional.png" width="45" height="40" alt="Portfolio Website" />
-        </a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="https://www.linkedin.com/in/andrew-alca/" target="_blank">
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" height="40" alt="LinkedIn" />
-        </a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="mailto:andrewmechdev@gmail.com" target="_blank">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="45" height="40" alt="Email" />
-        </a>
+        <nobr>
+          <a href="#" target="_blank">
+            <img src="./assets/carrera-profesional.png" width="45" height="40" alt="Portfolio Website" />
+          </a>
+          &nbsp;&nbsp;&nbsp;
+          <a href="https://www.linkedin.com/in/andrew-alca/" target="_blank">
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45" height="40" alt="LinkedIn" />
+          </a>
+          &nbsp;&nbsp;&nbsp;
+          <a href="mailto:andrewmechdev@gmail.com" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="45" height="40" alt="Email" />
+          </a>
+        </nobr>
       </td>
-      <td></td>
       <td align="center">
-        <a href="#" target="_blank">
-          <img src="https://cdn.simpleicons.org/discord/5865F2" width="45" height="40" alt="Discord" />
-        </a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="#" target="_blank">
-          <img src="https://cdn.simpleicons.org/youtube/FF0000" width="45" height="40" alt="YouTube" />
-        </a>
-        &nbsp;&nbsp;&nbsp;
-        <a href="#" target="_blank">
-          <img src="https://cdn.simpleicons.org/x/white" width="45" height="40" alt="X (Twitter)" />
-        </a>
+        <nobr>
+          <a href="#" target="_blank">
+            <img src="https://cdn.simpleicons.org/discord/5865F2" width="45" height="40" alt="Discord" />
+          </a>
+          &nbsp;&nbsp;&nbsp;
+          <a href="#" target="_blank">
+            <img src="https://cdn.simpleicons.org/youtube/FF0000" width="45" height="40" alt="YouTube" />
+          </a>
+          &nbsp;&nbsp;&nbsp;
+          <a href="#" target="_blank">
+            <img src="https://cdn.simpleicons.org/x/white" width="45" height="40" alt="X (Twitter)" />
+          </a>
+        </nobr>
       </td>
     </tr>
   </table>
