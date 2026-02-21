@@ -142,6 +142,7 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Audio Wave Divider" />
 </div>
+
 <h3 align="center">
   <img src="./assets/stats.gif" width="30" align="absmiddle" alt="Stats GIF"> 
   GitHub Analytics 
@@ -150,7 +151,7 @@
 
 <div align="center">
   <img src="./assets/left-wing.webp" width="160" align="absmiddle" alt="Left Wing">
-  <img src="https://streak-stats.demolab.com?user=AndrewMechDev&theme=dark&background=0d1117&hide_border=true&ring=00FFFF&fire=FF00FF" align="absmiddle" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-hazel-psi.vercel.app/?user=AndrewMechDev&theme=dark&background=0d1117&hide_border=true&ring=00FFFF&fire=FF00FF" align="absmiddle" alt="GitHub Streak" />
   <img src="./assets/right-wing.webp" width="160" align="absmiddle" alt="Right Wing">
   <br><br>
   <table>
@@ -164,7 +165,7 @@
     </tr>
   </table>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AndrewMechDev&bg_color=0d1117&color=c9d1d9&line=00FFFF&point=FF00FF&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph-pied-zeta.vercel.app/graph?username=AndrewMechDev&bg_color=0d1117&color=c9d1d9&line=00FFFF&point=FF00FF&hide_border=true" alt="Activity Graph" />
 </div>
 
 <br>
