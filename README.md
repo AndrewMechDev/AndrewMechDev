@@ -156,10 +156,10 @@
   <table>
     <tr>
       <td align="center" width="55%">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=AndrewMechDev&show_icons=true&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+        <img src="https://github-readme-stats-lemon-gamma-50.vercel.app/api?username=AndrewMechDev&show_icons=true&hide_border=true&title_color=00FFFF&icon_color=FF00FF&text_color=c9d1d9&bg_color=0d1117&include_all_commits=true&count_private=true" alt="GitHub Stats" />
       </td>
       <td align="center" width="60%">
-        <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AndrewMechDev&layout=compact&hide_border=true&title_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+        <img src="https://github-readme-stats-lemon-gamma-50.vercel.app/api/top-langs/?username=AndrewMechDev&layout=compact&hide_border=true&title_color=00FFFF&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
       </td>
     </tr>
   </table>
